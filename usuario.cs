@@ -6,12 +6,12 @@ namespace GPC;
     {
         Usuario us;
         us = new Usuario();
-        public string name;
-        public int tel;
-        public int cpf;
-        public string email; 
-        public int login;
-        public string pass;   
+        public string name {get;set;}
+        public int tel {get;set;}
+        public int cpf {get;set;}
+        public string email {get;set;} 
+        public int login {get;set;}
+        public string pass {get;set;}   
     }
 }
 
