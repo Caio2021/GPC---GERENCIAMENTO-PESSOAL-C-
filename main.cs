@@ -1,4 +1,3 @@
-//Esqueleto básico do código//
 using System;
 
 namespace GPC
