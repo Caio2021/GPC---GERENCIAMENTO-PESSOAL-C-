@@ -1,6 +1,6 @@
 using System;
 
-namespace GPC;
+namespace GPC
 {
      public partial class Login : Usuario
     {
@@ -16,3 +16,12 @@ namespace GPC;
 
             if (User.Login(cpf, pass));
             {
+
+            }
+
+
+        }
+    }
+
+}
+    

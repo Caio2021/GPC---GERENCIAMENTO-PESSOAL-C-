@@ -1,11 +1,11 @@
 using System;
 
-namespace GPC;
+namespace GPC
 {
-    class Usuario
+    public class Usuario
     {
         Usuario us;
-        us = new Usuario();
+        await us = new Usuario();
         public string name {get;set;}
         public int tel {get;set;}
         public int cpf {get;set;}
